@@ -1,0 +1,13 @@
+@import "primevue/resources/primevue.min.css";
+@import "primeflex/primeflex.css";
+@import "primeicons/primeicons.css";
+@import "primevue/resources/themes/lara-light-blue/theme.css";
+
+body {
+    font-family: var(--font-family);
+    font-weight: normal;
+    background: var(--surface-ground);
+    color: var(--text-color);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
